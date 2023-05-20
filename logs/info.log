@@ -1,0 +1,113 @@
+2023-05-20 12:28:43.385 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 12:28:43.396 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 12:28:43.396 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 12:28:43.482 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 12:28:43.482 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1376 ms
+2023-05-20 12:28:44.888 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 12:40:42.393 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 12:40:42.404 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 12:40:42.405 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 12:40:42.504 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 12:40:42.504 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1357 ms
+2023-05-20 12:40:43.926 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 12:46:45.426 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 12:46:45.436 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 12:46:45.437 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 12:46:45.525 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 12:46:45.526 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1403 ms
+2023-05-20 12:46:46.947 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 12:48:14.183 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 12:48:14.193 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 12:48:14.194 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 12:48:14.293 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 12:48:14.294 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1346 ms
+2023-05-20 12:48:15.698 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 12:51:23.884 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 12:51:23.895 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 12:51:23.895 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 12:51:23.989 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 12:51:23.990 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1229 ms
+2023-05-20 12:51:26.061 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 13:00:35.669 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 13:00:35.687 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 13:00:35.687 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 13:00:35.779 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 13:00:35.779 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1243 ms
+2023-05-20 13:00:38.099 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 13:04:17.154 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 13:04:17.162 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 13:04:17.163 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 13:04:17.260 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 13:04:17.261 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1244 ms
+2023-05-20 13:04:19.550 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 13:20:12.937 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 13:20:12.946 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 13:20:12.946 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 13:20:13.036 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 13:20:13.036 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1303 ms
+2023-05-20 13:20:15.207 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 14:54:08.470 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 14:54:08.481 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 14:54:08.482 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 14:54:08.578 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 14:54:08.578 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1441 ms
+2023-05-20 14:54:11.401 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 15:10:07.678 [SpringApplicationShutdownHook] INFO  org.apache.pulsar.client.impl.PulsarClientImpl - Client closing. URL: pulsar://localhost:6650
+2023-05-20 15:10:17.027 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 15:10:17.038 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 15:10:17.038 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 15:10:17.125 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 15:10:17.125 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1336 ms
+2023-05-20 15:10:19.411 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 15:10:19.485 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-05-20 15:10:19.492 [main] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-05-20 15:10:19.517 [main] INFO  org.apache.pulsar.client.impl.PulsarClientImpl - Client closing. URL: pulsar://localhost:6650
+2023-05-20 15:14:09.779 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 15:14:09.790 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 15:14:09.790 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 15:14:09.877 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 15:14:09.877 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1289 ms
+2023-05-20 15:14:12.115 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 15:14:12.187 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-05-20 15:14:12.195 [main] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-05-20 15:14:12.219 [main] INFO  org.apache.pulsar.client.impl.PulsarClientImpl - Client closing. URL: pulsar://localhost:6650
+2023-05-20 15:14:43.889 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 15:14:43.899 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 15:14:43.900 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 15:14:43.984 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 15:14:43.984 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1385 ms
+2023-05-20 15:14:46.136 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 15:14:46.214 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-05-20 15:14:46.221 [main] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-05-20 15:14:46.246 [main] INFO  org.apache.pulsar.client.impl.PulsarClientImpl - Client closing. URL: pulsar://localhost:6650
+2023-05-20 15:15:42.290 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 15:15:42.298 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 15:15:42.299 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 15:15:42.379 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 15:15:42.380 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1266 ms
+2023-05-20 15:15:44.643 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 15:16:32.603 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 15:16:32.613 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 15:16:32.613 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 15:16:32.695 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 15:16:32.696 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1270 ms
+2023-05-20 15:16:35.177 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 15:18:13.967 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 15:18:13.984 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 15:18:13.984 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 15:18:14.075 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 15:18:14.076 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1322 ms
+2023-05-20 15:18:16.493 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'
+2023-05-20 15:24:00.643 [SpringApplicationShutdownHook] INFO  org.apache.pulsar.client.impl.PulsarClientImpl - Client closing. URL: pulsar://localhost:6650
+2023-05-20 15:24:10.073 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2023-05-20 15:24:10.091 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-20 15:24:10.092 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-20 15:24:10.193 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/demo] - Initializing Spring embedded WebApplicationContext
+2023-05-20 15:24:10.193 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1282 ms
+2023-05-20 15:24:12.394 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/demo'

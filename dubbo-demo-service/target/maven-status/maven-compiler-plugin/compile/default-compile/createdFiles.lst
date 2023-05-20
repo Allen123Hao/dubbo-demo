@@ -1,0 +1,4 @@
+com/example/dubbo/service/pulsar/MyConsumer.class
+com/example/dubbo/service/serviceimpl/DubboProviderServiceImpl.class
+com/example/dubbo/service/config/PulsarConfig.class
+com/example/dubbo/service/pulsar/MyProducer.class

@@ -1,0 +1,14 @@
+pulsar:
+  service-url: pulsar://localhost:6650
+dubbo:
+  application:
+    name: ${application.name}
+    qos-port: 2222
+  protocol:
+    port: 20880
+  registry:
+    address: nacos://127.0.0.1:8848
+    parameters:
+      namespace: c9dfc362-34df-4778-820c-9cacfeb72274
+  provider:
+    filter: customerFilter,exceptionFilter

@@ -1,0 +1,2 @@
+customerFilter=com.example.dubbo.service.filter.CustomerContextFilter
+exceptionFilter=com.example.dubbo.service.filter.CustomerExceptionFilter
